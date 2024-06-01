@@ -15,7 +15,7 @@ Además, la página está optimizada para pantallas de 1200px de ancho, aseguran
 
 ![Web Agency](/src/img/creative-company.png)
 
-<a href="https://github.com/EstherChuCortes/HTML-CSS-Microsite-Portfolio" target="_blank">
+<a href="https://github.com/EstherChuCortes/CSS-header-Creative-Company/tree/main" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VER CODIGO&color=f&style=plastic&logo=github&logo-color=white"/>
 </a>  
 <a href="https://estherchucortes.github.io/HTML-CSS-Microsite-Portfolio/" target="_blank">
