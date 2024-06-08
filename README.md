@@ -18,9 +18,6 @@ Además, la página está optimizada para pantallas de 1200px de ancho, aseguran
 <a href="https://github.com/EstherChuCortes/CSS-header-Creative-Company/tree/main" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VER CODIGO&color=f&style=plastic&logo=github&logo-color=white"/>
 </a>  
-<a href="https://estherchucortes.github.io/CSS-header-Creative-Company/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VER WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-</a>
 
 
 ¡Gracias por revisar este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en hacérmela saber.
